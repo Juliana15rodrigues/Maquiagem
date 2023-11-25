@@ -15,6 +15,10 @@ p {
     text-align: center
 } 
 
+pele{
+  width: 800px;
+  height: 400px;
+}
 #missao {
   font-size: 23px
 }
