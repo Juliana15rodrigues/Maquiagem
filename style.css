@@ -11,7 +11,22 @@ width: 1280px;
 height: 640px;
 }
 
+#pele {
+width: 500px;
+height: 500px;
+}
+
 #rosto {
+width: 500px;
+height: 500px;
+}
+
+#olhos {
+width: 500px;
+height: 500px;
+}
+
+#labios {
 width: 500px;
 height: 500px;
 }
