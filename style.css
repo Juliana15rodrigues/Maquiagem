@@ -43,3 +43,6 @@ em strong {
     color: rgb(255, 0, 106);
 }
 
+.itens {
+  font-style: italic;
+}
