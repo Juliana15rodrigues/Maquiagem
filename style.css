@@ -3,8 +3,7 @@ body {
 }
  
 .texto {
-background: rgb(229, 153, 172)
-padding: 30px
+background: rgb(211, 118, 11)
 }
 
 h1 {
@@ -54,7 +53,6 @@ em strong {
 
 .listas {
   background: #FFFFFF
-  padding: 20px
 }
 
 h2 {
