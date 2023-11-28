@@ -6,7 +6,7 @@ body {
 background-color: rgba(245, 204, 245, 0.829);
 }
 
-h1 {
+.título-centralizado {
   text-align: center
 }
 
@@ -57,9 +57,6 @@ em strong {
   background: #FFFFFF
 }
 
-h2 {
-  text-align: center;
-}
 ul {
   display: inline-block;
   vertical-align: top;
