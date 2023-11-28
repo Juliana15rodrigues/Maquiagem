@@ -2,7 +2,7 @@ body {
   
 }
  
-.principal {
+.texto {
 background: rgb(218, 46, 86)
 padding: 30px
 }
@@ -52,7 +52,7 @@ em strong {
   font-style: italic;
 }
 
-.Beneficios {
+.listas {
   background: #FFFFFF
   padding: 20px
 }
