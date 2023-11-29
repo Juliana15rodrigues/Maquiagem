@@ -6,6 +6,10 @@ body {
 background-color: rgba(245, 204, 245, 0.829);
 }
 
+.título-principal {
+  padding-left: 20px;
+}
+
 .título-centralizado {
   text-align: center
 }
